@@ -13,10 +13,7 @@ The scripts are intended for researchers and practitioners in remote sensing, we
 Before running the scripts, ensure all dependencies are installed and paths to your local data are properly configured.
 
 
-## Author
-
-Maciej Lizak  
-Graduate Student | Remote Sensing & Geospatial Analysis  
-University of Guelph
+## Contributors:
+- Maciej 'Mac' Lizak
 
 ---
