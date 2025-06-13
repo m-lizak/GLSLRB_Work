@@ -1,4 +1,4 @@
-## Wetland Area Calculation Script
+## Wetland Area Estimate Script
 
 This script calculates wetland area estimates from classified raster prediction outputs by masking them to defined basin boundaries. It automates the process of extracting pixel counts for multiple wetland classes (e.g., bog, fen, swamp, marsh, water), converting these counts into area estimates (in km²), and saving the results in Excel format for further analysis.
 
