@@ -30,7 +30,7 @@ This script calculates wetland area estimates from classified raster prediction 
 ### Usage
 Run the script as-is to process the configured basins and generate wetland area summaries. Modify the `basins` list and paths as needed to suit your data organization.
 
+## Contributors:
+- Maciej 'Mac' Lizak
+
 ---
-
-*Script author: Maciej Lizak*
-
